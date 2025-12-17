@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Fitzpatrick"
+  given-names: "Carl"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Lisa"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "eeecs_qub_collaboration"
+version: 1.0.0
+DOI: 10.5072/zenodo.416049
+date-released: 2025-12-17
+url: "https://github.com/karloslokokos/eeecs_qub_collaboration"
